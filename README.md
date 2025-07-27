@@ -28,15 +28,6 @@ A simple and efficient To-Do application to help users manage their daily tasks.
 
 ---
 
-## 📸 Screenshots
-
-> Add images here using the GitHub path or upload them into the repo and link like this:
-
-![Home Page](screenshots/home.png)
-![Task Completed](screenshots/completed.png)
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository**
